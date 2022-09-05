@@ -1,0 +1,14 @@
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.csproj.AssemblyReference.cache
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.AssemblyInfoInputs.cache
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.AssemblyInfo.cs
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15.deps.json
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15.runtimeconfig.json
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15.runtimeconfig.dev.json
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15.dll
+/Users/paul/Projects/lesson15/lesson15/bin/Debug/netcoreapp3.1/lesson15.pdb
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.dll
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.pdb
+/Users/paul/Projects/lesson15/lesson15/obj/Debug/netcoreapp3.1/lesson15.genruntimeconfig.cache
